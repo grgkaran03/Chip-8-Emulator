@@ -14,6 +14,7 @@ This is a fairly complete implementation of a CHIP-8 virtual machine however the
 ## Compiling and Running
 
 Requires SDL2.dll:
+
 [Official Link](https://github.com/libsdl-org/SDL/releases/tag/release-2.30.6)
 
 
