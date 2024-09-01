@@ -29,5 +29,6 @@ ROM: The ROM file to load.
 example:
 Run:
 ```
-./chip8 10 1 <ROM file>
+mingw32-make -f Makefile
+./Main 10 1 <ROM file>
 ```
